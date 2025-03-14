@@ -1,1 +1,1 @@
-*Device specific tree For Samsung A51 smartphone.*
+*Device-specific VENDOR tree for Samsung A51 smartphone.*
